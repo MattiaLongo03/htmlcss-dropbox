@@ -8,6 +8,10 @@ html{
     font-family: 'Open Sans', sans-serif;
 }
 
+ul{
+    list-style: none;
+}
+
 header{
     background-color: #B4D0E7;
 }
@@ -60,4 +64,39 @@ nav{
     background-color: #0061FF;
     color: white;
     cursor: pointer;
+}
+
+.fatturazione{
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
+
+.colonne{
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.tipo{
+    border: solid 1px lightgray;
+}
+
+.contenuto-colonna{
+    border: solid 1px lightgray;
+}
+
+
+.contenuto-colonna li{
+    padding: 5px;
+}
+
+.prova2{
+    width: 100px;
+    text-align: center;
+    background-color: #0061FF;
+    color: white;
+    cursor: pointer;
+    
 }
