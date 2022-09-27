@@ -201,3 +201,40 @@ nav{
     text-align: center;
     background-color: lightgrey;
 }
+
+.testo2{
+    display: flex;
+    justify-content: center;
+    background-color: #B4D0E7;
+    padding: 100px;
+}
+
+.testo2 h2{
+    padding-right: 500px;
+    display: inline;
+    color: #61082B;
+}
+
+.testo2 span{
+    padding: 10px;
+    background-color: white;
+    border: solid 1px lightgrey;
+}
+
+.container5{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.titolo{
+    margin-bottom: 50px;
+}
+
+.differenze{
+    margin: 0 auto;
+    width: 1000px;
+    padding: 50px;
+    border-top: solid 1px lightgray;
+    border-bottom: solid 1px lightgray;
+}
